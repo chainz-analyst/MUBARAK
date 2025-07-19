@@ -6,17 +6,17 @@
 - Transform raw data into clear, actionable insights
 - Build responsive Excel dashboards for sales, operations & customer insights
 - Query SQL databases to extract powerful business stories
-- Automate local business processes with Make, Airtable & WhatsApp Cloud API
+
 
 🧠 Tools I Use:
-SQL, Excel, Google Sheets, Power Query, Python (coming soon), Make, Airtable
+SQL, Excel, Google Sheets, Power Query, Python (coming soon)
 
 📈 Recent Projects:
 - GasFeel Dashboard: Monitored KPIs across sales, delivery, agent performance, and peak order times
 - Jumia Scraper: Scraped and analyzed full product data for competitive insight
 
 🚀 Currently building:
-- A data-driven portfolio for Nigerian local businesses
+
 - A collection of real business case solutions using Excel + SQL
 
 🤝 Open to collaborations, internships, or freelance gigs. Let’s connect!
